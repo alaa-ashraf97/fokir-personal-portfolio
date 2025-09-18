@@ -1,2 +1,18 @@
 # fokir-personal-portfolio
-🎨 Fokir - Responsive Personal Portfolio Website  Modern portfolio site built with HTML5 &amp; CSS3. Features smooth navigation, animated typing effect, portfolio gallery, testimonials, and contact form.  ✨ Pure CSS animations &amp; hover effects 📱 Fully responsive design 🎯 Clean, professional UI  #HTML5 #CSS3 #Portfolio #ResponsiveDesign
+##🎨 Fokir - Responsive Personal Portfolio Website
+A modern, fully responsive personal portfolio website built with pure HTML5 & CSS3. Features smooth scrolling navigation, animated typing effect, portfolio gallery, testimonials section, blog cards, and contact form.
+
+###✨ Features:
+- Responsive design for all devices
+- Smooth scrolling navigation
+- CSS animations & hover effects  
+- Portfolio gallery with overlay
+- Client testimonials section
+- Contact form with validation styles
+- Clean, professional design
+
+###- 🛠️ Technologies:
+- HTML5
+- CSS3
+- Font Awesome icons
+- Google Fonts
